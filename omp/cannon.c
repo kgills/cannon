@@ -108,11 +108,14 @@ int main(int argc, char *argv[])
     gettimeofday(&start_time, NULL);
 
     // Execute the algorithm
+    #pragma omp parallel for private(i,j,k,sum) schedule(static) reduction(+:sum)
     for(i = 0; i < ARRAY_DIM; i++) {
         for(j = 0; j < ARRAY_DIM; j++) {
+            int sum = 0;
             for(k = 0; k < ARRAY_DIM; k++) {
-                matrix_C[i][j] = matrix_C[i][j] + matrix_A[i][k] * matrix_B[k][j];
+                sum += matrix_A[i][k] * matrix_B[k][j];
             }
+            matrix_C[i][j] = sum;
         }
     }   
 

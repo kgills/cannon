@@ -12,7 +12,7 @@
 #include <sys/time.h>
 
 /* Defines */
-#define ARRAY_DIM   4096
+#define ARRAY_DIM   16384
 #define MAX_VAL     ARRAY_DIM
 
 #define MIN(a,b) (((a)<(b))?(a):(b))

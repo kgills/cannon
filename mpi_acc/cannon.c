@@ -157,12 +157,16 @@ int main(int argc, char *argv[])
     for(l = 0; l < dim; l++) {
 
         // Execute the algorithm
-        #pragma omp parallel for private(i,j,k) schedule(static)
+        #pragma acc kernels loop copyin(matrix_A[:ARRAY_DIM/dim][:ARRAY_DIM/dim], matrix_B[:ARRAY_DIM/dim][:ARRAY_DIM/dim]) copyout(matrix_C[:ARRAY_DIM/dim][:ARRAY_DIM/dim])
         for(i = 0; i < ARRAY_DIM/dim; i++) {
+            #pragma acc loop
             for(j = 0; j < ARRAY_DIM/dim; j++) {
+                float sum = 0;
+                #pragma acc loop reduction(+:sum)
                 for(k = 0; k < ARRAY_DIM/dim; k++) {
-                    matrix_C[i][j] = matrix_C[i][j] + matrix_A[i][k] * matrix_B[k][j];
+                    sum += matrix_A[i][k] * matrix_B[k][j];
                 }
+                matrix_C[i][j]=sum;
             }
         }
 

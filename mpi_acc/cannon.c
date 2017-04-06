@@ -157,7 +157,7 @@ int main(int argc, char *argv[])
     for(l = 0; l < dim; l++) {
 
         // Execute the algorithm
-        #pragma acc kernels loop copyin(matrix_A[:ARRAY_DIM/dim][:ARRAY_DIM/dim], matrix_B[:ARRAY_DIM/dim][:ARRAY_DIM/dim]) copyout(matrix_C[:ARRAY_DIM/dim][:ARRAY_DIM/dim])
+        #pragma acc kernels loop copyin(matrix_A[:ARRAY_DIM/dim][:ARRAY_DIM/dim], matrix_B[:ARRAY_DIM/dim][:ARRAY_DIM/dim]) copy(matrix_C[:ARRAY_DIM/dim][:ARRAY_DIM/dim])
         for(i = 0; i < ARRAY_DIM/dim; i++) {
             #pragma acc loop
             for(j = 0; j < ARRAY_DIM/dim; j++) {

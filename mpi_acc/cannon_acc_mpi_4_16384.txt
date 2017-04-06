@@ -1,0 +1,524 @@
+matrix_dim, etime, flops, cores
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24698,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24991,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[25021,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[25052,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[25084,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24850,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24922,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[24953,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26265,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26296,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+matrix_dim, etime, flops, cores
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26545,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26581,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26613,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26603,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26377,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26415,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26446,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[26476,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[25731,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[25761,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+matrix_dim, etime, flops, cores
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[20762,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[20799,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[20810,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[20847,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22163,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22192,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22228,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22266,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22046,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22018,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+matrix_dim, etime, flops, cores
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[16803,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[16771,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[16869,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[16726,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[32598,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[32438,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[32393,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[32469,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[32311,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
+Error computing matrix multiplication i=0 j=1
+Error computing matrix multiplication i=0 j=8192
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[32264,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------
